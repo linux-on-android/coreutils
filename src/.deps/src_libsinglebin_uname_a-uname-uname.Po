@@ -1,0 +1,6 @@
+src/src_libsinglebin_uname_a-uname-uname.o: src/uname-uname.c \
+ /usr/aarch64-linux-gnu/include/stdc-predef.h src/uname.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+src/uname.h:

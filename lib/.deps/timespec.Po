@@ -1,0 +1,46 @@
+lib/timespec.o: lib/timespec.c \
+ /usr/aarch64-linux-gnu/include/stdc-predef.h lib/config.h lib/timespec.h \
+ lib/time.h /usr/aarch64-linux-gnu/include/time.h \
+ /usr/aarch64-linux-gnu/include/features.h \
+ /usr/aarch64-linux-gnu/include/sys/cdefs.h \
+ /usr/aarch64-linux-gnu/include/bits/wordsize.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h \
+ /usr/aarch64-linux-gnu/include/bits/time.h \
+ /usr/aarch64-linux-gnu/include/bits/types.h \
+ /usr/aarch64-linux-gnu/include/bits/typesizes.h \
+ /usr/aarch64-linux-gnu/include/bits/timex.h \
+ /usr/aarch64-linux-gnu/include/xlocale.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/timespec.h:
+
+lib/time.h:
+
+/usr/aarch64-linux-gnu/include/time.h:
+
+/usr/aarch64-linux-gnu/include/features.h:
+
+/usr/aarch64-linux-gnu/include/sys/cdefs.h:
+
+/usr/aarch64-linux-gnu/include/bits/wordsize.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h:
+
+/usr/aarch64-linux-gnu/include/bits/time.h:
+
+/usr/aarch64-linux-gnu/include/bits/types.h:
+
+/usr/aarch64-linux-gnu/include/bits/typesizes.h:
+
+/usr/aarch64-linux-gnu/include/bits/timex.h:
+
+/usr/aarch64-linux-gnu/include/xlocale.h:

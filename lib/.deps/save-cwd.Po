@@ -1,0 +1,236 @@
+lib/save-cwd.o: lib/save-cwd.c \
+ /usr/aarch64-linux-gnu/include/stdc-predef.h lib/config.h lib/save-cwd.h \
+ /usr/aarch64-linux-gnu/include/errno.h \
+ /usr/aarch64-linux-gnu/include/features.h \
+ /usr/aarch64-linux-gnu/include/sys/cdefs.h \
+ /usr/aarch64-linux-gnu/include/bits/wordsize.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h \
+ /usr/aarch64-linux-gnu/include/bits/errno.h \
+ /usr/aarch64-linux-gnu/include/linux/errno.h \
+ /usr/aarch64-linux-gnu/include/asm/errno.h \
+ /usr/aarch64-linux-gnu/include/asm-generic/errno.h \
+ /usr/aarch64-linux-gnu/include/asm-generic/errno-base.h lib/fcntl.h \
+ lib/sys/types.h /usr/aarch64-linux-gnu/include/sys/types.h \
+ /usr/aarch64-linux-gnu/include/bits/types.h \
+ /usr/aarch64-linux-gnu/include/bits/typesizes.h lib/time.h \
+ /usr/aarch64-linux-gnu/include/time.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h \
+ /usr/aarch64-linux-gnu/include/endian.h \
+ /usr/aarch64-linux-gnu/include/bits/endian.h \
+ /usr/aarch64-linux-gnu/include/bits/byteswap.h \
+ /usr/aarch64-linux-gnu/include/bits/byteswap-16.h lib/sys/select.h \
+ /usr/aarch64-linux-gnu/include/sys/select.h \
+ /usr/aarch64-linux-gnu/include/bits/select.h \
+ /usr/aarch64-linux-gnu/include/bits/sigset.h \
+ /usr/aarch64-linux-gnu/include/bits/time.h \
+ /usr/aarch64-linux-gnu/include/bits/select2.h \
+ /usr/aarch64-linux-gnu/include/sys/sysmacros.h \
+ /usr/aarch64-linux-gnu/include/bits/pthreadtypes.h \
+ /usr/aarch64-linux-gnu/include/fcntl.h \
+ /usr/aarch64-linux-gnu/include/bits/fcntl.h \
+ /usr/aarch64-linux-gnu/include/bits/fcntl-linux.h \
+ /usr/aarch64-linux-gnu/include/bits/uio.h \
+ /usr/aarch64-linux-gnu/include/bits/stat.h \
+ /usr/aarch64-linux-gnu/include/bits/fcntl2.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdbool.h lib/stdio.h \
+ /usr/aarch64-linux-gnu/include/stdio.h \
+ /usr/aarch64-linux-gnu/include/libio.h \
+ /usr/aarch64-linux-gnu/include/_G_config.h lib/wchar.h \
+ /usr/aarch64-linux-gnu/include/wchar.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h \
+ /usr/aarch64-linux-gnu/include/bits/stdio_lim.h \
+ /usr/aarch64-linux-gnu/include/bits/sys_errlist.h \
+ /usr/aarch64-linux-gnu/include/bits/stdio.h \
+ /usr/aarch64-linux-gnu/include/bits/stdio2.h lib/stdlib.h \
+ /usr/aarch64-linux-gnu/include/stdlib.h \
+ /usr/aarch64-linux-gnu/include/bits/waitflags.h \
+ /usr/aarch64-linux-gnu/include/bits/waitstatus.h \
+ /usr/aarch64-linux-gnu/include/xlocale.h lib/alloca.h \
+ /usr/aarch64-linux-gnu/include/bits/stdlib-bsearch.h \
+ /usr/aarch64-linux-gnu/include/bits/stdlib-float.h \
+ /usr/aarch64-linux-gnu/include/bits/stdlib.h lib/chdir-long.h \
+ lib/unistd.h /usr/aarch64-linux-gnu/include/unistd.h \
+ /usr/aarch64-linux-gnu/include/bits/posix_opt.h \
+ /usr/aarch64-linux-gnu/include/bits/environments.h \
+ /usr/aarch64-linux-gnu/include/bits/confname.h lib/getopt.h \
+ /usr/aarch64-linux-gnu/include/getopt.h \
+ /usr/aarch64-linux-gnu/include/bits/unistd.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/syslimits.h \
+ /usr/aarch64-linux-gnu/include/limits.h \
+ /usr/aarch64-linux-gnu/include/bits/posix1_lim.h \
+ /usr/aarch64-linux-gnu/include/bits/local_lim.h \
+ /usr/aarch64-linux-gnu/include/linux/limits.h \
+ /usr/aarch64-linux-gnu/include/bits/posix2_lim.h \
+ /usr/aarch64-linux-gnu/include/bits/xopen_lim.h lib/pathmax.h \
+ lib/unistd--.h lib/unistd-safer.h lib/cloexec.h lib/fcntl--.h \
+ lib/fcntl-safer.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/save-cwd.h:
+
+/usr/aarch64-linux-gnu/include/errno.h:
+
+/usr/aarch64-linux-gnu/include/features.h:
+
+/usr/aarch64-linux-gnu/include/sys/cdefs.h:
+
+/usr/aarch64-linux-gnu/include/bits/wordsize.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h:
+
+/usr/aarch64-linux-gnu/include/bits/errno.h:
+
+/usr/aarch64-linux-gnu/include/linux/errno.h:
+
+/usr/aarch64-linux-gnu/include/asm/errno.h:
+
+/usr/aarch64-linux-gnu/include/asm-generic/errno.h:
+
+/usr/aarch64-linux-gnu/include/asm-generic/errno-base.h:
+
+lib/fcntl.h:
+
+lib/sys/types.h:
+
+/usr/aarch64-linux-gnu/include/sys/types.h:
+
+/usr/aarch64-linux-gnu/include/bits/types.h:
+
+/usr/aarch64-linux-gnu/include/bits/typesizes.h:
+
+lib/time.h:
+
+/usr/aarch64-linux-gnu/include/time.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h:
+
+/usr/aarch64-linux-gnu/include/endian.h:
+
+/usr/aarch64-linux-gnu/include/bits/endian.h:
+
+/usr/aarch64-linux-gnu/include/bits/byteswap.h:
+
+/usr/aarch64-linux-gnu/include/bits/byteswap-16.h:
+
+lib/sys/select.h:
+
+/usr/aarch64-linux-gnu/include/sys/select.h:
+
+/usr/aarch64-linux-gnu/include/bits/select.h:
+
+/usr/aarch64-linux-gnu/include/bits/sigset.h:
+
+/usr/aarch64-linux-gnu/include/bits/time.h:
+
+/usr/aarch64-linux-gnu/include/bits/select2.h:
+
+/usr/aarch64-linux-gnu/include/sys/sysmacros.h:
+
+/usr/aarch64-linux-gnu/include/bits/pthreadtypes.h:
+
+/usr/aarch64-linux-gnu/include/fcntl.h:
+
+/usr/aarch64-linux-gnu/include/bits/fcntl.h:
+
+/usr/aarch64-linux-gnu/include/bits/fcntl-linux.h:
+
+/usr/aarch64-linux-gnu/include/bits/uio.h:
+
+/usr/aarch64-linux-gnu/include/bits/stat.h:
+
+/usr/aarch64-linux-gnu/include/bits/fcntl2.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdbool.h:
+
+lib/stdio.h:
+
+/usr/aarch64-linux-gnu/include/stdio.h:
+
+/usr/aarch64-linux-gnu/include/libio.h:
+
+/usr/aarch64-linux-gnu/include/_G_config.h:
+
+lib/wchar.h:
+
+/usr/aarch64-linux-gnu/include/wchar.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdio_lim.h:
+
+/usr/aarch64-linux-gnu/include/bits/sys_errlist.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdio.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdio2.h:
+
+lib/stdlib.h:
+
+/usr/aarch64-linux-gnu/include/stdlib.h:
+
+/usr/aarch64-linux-gnu/include/bits/waitflags.h:
+
+/usr/aarch64-linux-gnu/include/bits/waitstatus.h:
+
+/usr/aarch64-linux-gnu/include/xlocale.h:
+
+lib/alloca.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdlib-bsearch.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdlib-float.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdlib.h:
+
+lib/chdir-long.h:
+
+lib/unistd.h:
+
+/usr/aarch64-linux-gnu/include/unistd.h:
+
+/usr/aarch64-linux-gnu/include/bits/posix_opt.h:
+
+/usr/aarch64-linux-gnu/include/bits/environments.h:
+
+/usr/aarch64-linux-gnu/include/bits/confname.h:
+
+lib/getopt.h:
+
+/usr/aarch64-linux-gnu/include/getopt.h:
+
+/usr/aarch64-linux-gnu/include/bits/unistd.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/limits.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/syslimits.h:
+
+/usr/aarch64-linux-gnu/include/limits.h:
+
+/usr/aarch64-linux-gnu/include/bits/posix1_lim.h:
+
+/usr/aarch64-linux-gnu/include/bits/local_lim.h:
+
+/usr/aarch64-linux-gnu/include/linux/limits.h:
+
+/usr/aarch64-linux-gnu/include/bits/posix2_lim.h:
+
+/usr/aarch64-linux-gnu/include/bits/xopen_lim.h:
+
+lib/pathmax.h:
+
+lib/unistd--.h:
+
+lib/unistd-safer.h:
+
+lib/cloexec.h:
+
+lib/fcntl--.h:
+
+lib/fcntl-safer.h:

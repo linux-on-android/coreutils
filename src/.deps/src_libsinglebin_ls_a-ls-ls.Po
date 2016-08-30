@@ -1,0 +1,6 @@
+src/src_libsinglebin_ls_a-ls-ls.o: src/ls-ls.c \
+ /usr/aarch64-linux-gnu/include/stdc-predef.h src/ls.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+src/ls.h:

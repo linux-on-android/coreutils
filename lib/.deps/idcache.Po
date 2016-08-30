@@ -1,0 +1,163 @@
+lib/idcache.o: lib/idcache.c /usr/aarch64-linux-gnu/include/stdc-predef.h \
+ lib/config.h lib/idcache.h lib/sys/types.h \
+ /usr/aarch64-linux-gnu/include/sys/types.h \
+ /usr/aarch64-linux-gnu/include/features.h \
+ /usr/aarch64-linux-gnu/include/sys/cdefs.h \
+ /usr/aarch64-linux-gnu/include/bits/wordsize.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h \
+ /usr/aarch64-linux-gnu/include/bits/types.h \
+ /usr/aarch64-linux-gnu/include/bits/typesizes.h lib/time.h \
+ /usr/aarch64-linux-gnu/include/time.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h \
+ /usr/aarch64-linux-gnu/include/endian.h \
+ /usr/aarch64-linux-gnu/include/bits/endian.h \
+ /usr/aarch64-linux-gnu/include/bits/byteswap.h \
+ /usr/aarch64-linux-gnu/include/bits/byteswap-16.h lib/sys/select.h \
+ /usr/aarch64-linux-gnu/include/sys/select.h \
+ /usr/aarch64-linux-gnu/include/bits/select.h \
+ /usr/aarch64-linux-gnu/include/bits/sigset.h \
+ /usr/aarch64-linux-gnu/include/bits/time.h \
+ /usr/aarch64-linux-gnu/include/bits/select2.h \
+ /usr/aarch64-linux-gnu/include/sys/sysmacros.h \
+ /usr/aarch64-linux-gnu/include/bits/pthreadtypes.h lib/stdio.h \
+ /usr/aarch64-linux-gnu/include/stdio.h \
+ /usr/aarch64-linux-gnu/include/libio.h \
+ /usr/aarch64-linux-gnu/include/_G_config.h lib/wchar.h \
+ /usr/aarch64-linux-gnu/include/wchar.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h \
+ /usr/aarch64-linux-gnu/include/bits/stdio_lim.h \
+ /usr/aarch64-linux-gnu/include/bits/sys_errlist.h \
+ /usr/aarch64-linux-gnu/include/bits/stdio.h \
+ /usr/aarch64-linux-gnu/include/bits/stdio2.h lib/string.h \
+ /usr/aarch64-linux-gnu/include/string.h \
+ /usr/aarch64-linux-gnu/include/xlocale.h \
+ /usr/aarch64-linux-gnu/include/bits/string.h \
+ /usr/aarch64-linux-gnu/include/bits/string2.h lib/stdlib.h \
+ /usr/aarch64-linux-gnu/include/stdlib.h \
+ /usr/aarch64-linux-gnu/include/bits/string3.h \
+ /usr/aarch64-linux-gnu/include/pwd.h \
+ /usr/aarch64-linux-gnu/include/grp.h lib/unistd.h \
+ /usr/aarch64-linux-gnu/include/unistd.h \
+ /usr/aarch64-linux-gnu/include/bits/posix_opt.h \
+ /usr/aarch64-linux-gnu/include/bits/environments.h \
+ /usr/aarch64-linux-gnu/include/bits/confname.h lib/getopt.h \
+ /usr/aarch64-linux-gnu/include/getopt.h \
+ /usr/aarch64-linux-gnu/include/bits/unistd.h lib/xalloc.h \
+ lib/xalloc-oversized.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/idcache.h:
+
+lib/sys/types.h:
+
+/usr/aarch64-linux-gnu/include/sys/types.h:
+
+/usr/aarch64-linux-gnu/include/features.h:
+
+/usr/aarch64-linux-gnu/include/sys/cdefs.h:
+
+/usr/aarch64-linux-gnu/include/bits/wordsize.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h:
+
+/usr/aarch64-linux-gnu/include/bits/types.h:
+
+/usr/aarch64-linux-gnu/include/bits/typesizes.h:
+
+lib/time.h:
+
+/usr/aarch64-linux-gnu/include/time.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h:
+
+/usr/aarch64-linux-gnu/include/endian.h:
+
+/usr/aarch64-linux-gnu/include/bits/endian.h:
+
+/usr/aarch64-linux-gnu/include/bits/byteswap.h:
+
+/usr/aarch64-linux-gnu/include/bits/byteswap-16.h:
+
+lib/sys/select.h:
+
+/usr/aarch64-linux-gnu/include/sys/select.h:
+
+/usr/aarch64-linux-gnu/include/bits/select.h:
+
+/usr/aarch64-linux-gnu/include/bits/sigset.h:
+
+/usr/aarch64-linux-gnu/include/bits/time.h:
+
+/usr/aarch64-linux-gnu/include/bits/select2.h:
+
+/usr/aarch64-linux-gnu/include/sys/sysmacros.h:
+
+/usr/aarch64-linux-gnu/include/bits/pthreadtypes.h:
+
+lib/stdio.h:
+
+/usr/aarch64-linux-gnu/include/stdio.h:
+
+/usr/aarch64-linux-gnu/include/libio.h:
+
+/usr/aarch64-linux-gnu/include/_G_config.h:
+
+lib/wchar.h:
+
+/usr/aarch64-linux-gnu/include/wchar.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdio_lim.h:
+
+/usr/aarch64-linux-gnu/include/bits/sys_errlist.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdio.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdio2.h:
+
+lib/string.h:
+
+/usr/aarch64-linux-gnu/include/string.h:
+
+/usr/aarch64-linux-gnu/include/xlocale.h:
+
+/usr/aarch64-linux-gnu/include/bits/string.h:
+
+/usr/aarch64-linux-gnu/include/bits/string2.h:
+
+lib/stdlib.h:
+
+/usr/aarch64-linux-gnu/include/stdlib.h:
+
+/usr/aarch64-linux-gnu/include/bits/string3.h:
+
+/usr/aarch64-linux-gnu/include/pwd.h:
+
+/usr/aarch64-linux-gnu/include/grp.h:
+
+lib/unistd.h:
+
+/usr/aarch64-linux-gnu/include/unistd.h:
+
+/usr/aarch64-linux-gnu/include/bits/posix_opt.h:
+
+/usr/aarch64-linux-gnu/include/bits/environments.h:
+
+/usr/aarch64-linux-gnu/include/bits/confname.h:
+
+lib/getopt.h:
+
+/usr/aarch64-linux-gnu/include/getopt.h:
+
+/usr/aarch64-linux-gnu/include/bits/unistd.h:
+
+lib/xalloc.h:
+
+lib/xalloc-oversized.h:

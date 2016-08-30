@@ -1,0 +1,29 @@
+lib/stpncpy.o: lib/stpncpy.c lib/config.h lib/string.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/string.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/android/api-level.h \
+ lib/stddef.h \
+ /home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stddef.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/malloc.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/xlocale.h
+
+lib/config.h:
+
+lib/string.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/string.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/android/api-level.h:
+
+lib/stddef.h:
+
+/home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stddef.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/malloc.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/xlocale.h:

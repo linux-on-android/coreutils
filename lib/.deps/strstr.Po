@@ -1,0 +1,87 @@
+lib/strstr.o: lib/strstr.c /usr/aarch64-linux-gnu/include/stdc-predef.h \
+ lib/config.h lib/string.h /usr/aarch64-linux-gnu/include/string.h \
+ /usr/aarch64-linux-gnu/include/features.h \
+ /usr/aarch64-linux-gnu/include/sys/cdefs.h \
+ /usr/aarch64-linux-gnu/include/bits/wordsize.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h \
+ /usr/aarch64-linux-gnu/include/xlocale.h \
+ /usr/aarch64-linux-gnu/include/bits/string.h \
+ /usr/aarch64-linux-gnu/include/bits/string2.h lib/stdlib.h \
+ /usr/aarch64-linux-gnu/include/stdlib.h \
+ /usr/aarch64-linux-gnu/include/bits/string3.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdbool.h \
+ lib/str-two-way.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/syslimits.h \
+ /usr/aarch64-linux-gnu/include/limits.h \
+ /usr/aarch64-linux-gnu/include/bits/posix1_lim.h \
+ /usr/aarch64-linux-gnu/include/bits/local_lim.h \
+ /usr/aarch64-linux-gnu/include/linux/limits.h \
+ /usr/aarch64-linux-gnu/include/bits/posix2_lim.h \
+ /usr/aarch64-linux-gnu/include/bits/xopen_lim.h \
+ /usr/aarch64-linux-gnu/include/bits/stdio_lim.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdint.h \
+ /usr/aarch64-linux-gnu/include/stdint.h \
+ /usr/aarch64-linux-gnu/include/bits/wchar.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/string.h:
+
+/usr/aarch64-linux-gnu/include/string.h:
+
+/usr/aarch64-linux-gnu/include/features.h:
+
+/usr/aarch64-linux-gnu/include/sys/cdefs.h:
+
+/usr/aarch64-linux-gnu/include/bits/wordsize.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h:
+
+/usr/aarch64-linux-gnu/include/xlocale.h:
+
+/usr/aarch64-linux-gnu/include/bits/string.h:
+
+/usr/aarch64-linux-gnu/include/bits/string2.h:
+
+lib/stdlib.h:
+
+/usr/aarch64-linux-gnu/include/stdlib.h:
+
+/usr/aarch64-linux-gnu/include/bits/string3.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdbool.h:
+
+lib/str-two-way.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/limits.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include-fixed/syslimits.h:
+
+/usr/aarch64-linux-gnu/include/limits.h:
+
+/usr/aarch64-linux-gnu/include/bits/posix1_lim.h:
+
+/usr/aarch64-linux-gnu/include/bits/local_lim.h:
+
+/usr/aarch64-linux-gnu/include/linux/limits.h:
+
+/usr/aarch64-linux-gnu/include/bits/posix2_lim.h:
+
+/usr/aarch64-linux-gnu/include/bits/xopen_lim.h:
+
+/usr/aarch64-linux-gnu/include/bits/stdio_lim.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdint.h:
+
+/usr/aarch64-linux-gnu/include/stdint.h:
+
+/usr/aarch64-linux-gnu/include/bits/wchar.h:

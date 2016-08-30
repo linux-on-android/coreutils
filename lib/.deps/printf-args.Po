@@ -1,0 +1,49 @@
+lib/printf-args.o: lib/printf-args.c \
+ /usr/aarch64-linux-gnu/include/stdc-predef.h lib/config.h \
+ lib/printf-args.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h lib/wchar.h \
+ /usr/aarch64-linux-gnu/include/features.h \
+ /usr/aarch64-linux-gnu/include/sys/cdefs.h \
+ /usr/aarch64-linux-gnu/include/bits/wordsize.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs.h \
+ /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h \
+ /usr/aarch64-linux-gnu/include/wchar.h lib/stdio.h \
+ /usr/aarch64-linux-gnu/include/stdio.h \
+ /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h \
+ /usr/aarch64-linux-gnu/include/bits/wchar.h \
+ /usr/aarch64-linux-gnu/include/xlocale.h \
+ /usr/aarch64-linux-gnu/include/bits/wchar2.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/printf-args.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stddef.h:
+
+lib/wchar.h:
+
+/usr/aarch64-linux-gnu/include/features.h:
+
+/usr/aarch64-linux-gnu/include/sys/cdefs.h:
+
+/usr/aarch64-linux-gnu/include/bits/wordsize.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs.h:
+
+/usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h:
+
+/usr/aarch64-linux-gnu/include/wchar.h:
+
+lib/stdio.h:
+
+/usr/aarch64-linux-gnu/include/stdio.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h:
+
+/usr/aarch64-linux-gnu/include/bits/wchar.h:
+
+/usr/aarch64-linux-gnu/include/xlocale.h:
+
+/usr/aarch64-linux-gnu/include/bits/wchar2.h:

@@ -1,0 +1,82 @@
+lib/fpending.o: lib/fpending.c lib/config.h lib/fpending.h lib/stddef.h \
+ /home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stddef.h \
+ lib/stdio.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/stdio.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/android/api-level.h \
+ lib/sys/types.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/types.h \
+ lib/stdint.h \
+ /home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stdint.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/stdint.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/machine/wchar_limits.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/types.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm/types.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/types.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/int-ll64.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm/bitsperlong.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/bitsperlong.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/posix_types.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/stddef.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/compiler.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm/posix_types.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/posix_types.h \
+ /home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/sysmacros.h \
+ /home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stdarg.h
+
+lib/config.h:
+
+lib/fpending.h:
+
+lib/stddef.h:
+
+/home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stddef.h:
+
+lib/stdio.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/stdio.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/android/api-level.h:
+
+lib/sys/types.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/types.h:
+
+lib/stdint.h:
+
+/home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stdint.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/stdint.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/machine/wchar_limits.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/types.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm/types.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/types.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/int-ll64.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm/bitsperlong.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/posix_types.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/stddef.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/linux/compiler.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm/posix_types.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/asm-generic/posix_types.h:
+
+/home/crixec/opt/aarch64-linux-android/sysroot/usr/include/sys/sysmacros.h:
+
+/home/crixec/opt/aarch64-linux-android/lib/gcc/aarch64-linux-android/4.9.x/include/stdarg.h:

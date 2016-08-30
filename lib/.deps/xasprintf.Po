@@ -1,0 +1,11 @@
+lib/xasprintf.o: lib/xasprintf.c \
+ /usr/aarch64-linux-gnu/include/stdc-predef.h lib/config.h \
+ lib/xvasprintf.h /usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
+
+lib/xvasprintf.h:
+
+/usr/lib/gcc-cross/aarch64-linux-gnu/5/include/stdarg.h:

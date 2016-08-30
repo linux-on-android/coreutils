@@ -1,0 +1,6 @@
+src/version.o: src/version.c /usr/aarch64-linux-gnu/include/stdc-predef.h \
+ lib/config.h
+
+/usr/aarch64-linux-gnu/include/stdc-predef.h:
+
+lib/config.h:
