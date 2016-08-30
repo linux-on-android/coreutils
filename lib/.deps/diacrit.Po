@@ -1,8 +1,0 @@
-lib/diacrit.o: lib/diacrit.c /usr/aarch64-linux-gnu/include/stdc-predef.h \
- lib/config.h lib/diacrit.h
-
-/usr/aarch64-linux-gnu/include/stdc-predef.h:
-
-lib/config.h:
-
-lib/diacrit.h:
